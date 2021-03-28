@@ -1,0 +1,74 @@
+;#<FEEDBACK># ARM Linker, 5060750: Last Updated: Wed Aug 26 23:52:29 2020
+;VERSION 0.2
+;FILE hc595.o
+GPIO_INIT <= USED 0
+__asm___7_hc595_c_fe3ebaa3____REV16 <= USED 0
+__asm___7_hc595_c_fe3ebaa3____REVSH <= USED 0
+__asm___7_hc595_c_fe3ebaa3____RRX <= USED 0
+out595_datdu <= USED 0
+show_Chinese <= USED 0
+show_many_Chinese <= USED 0
+show_string <= USED 0
+show_time <= USED 0
+;FILE key.o
+__asm___5_key_c_KYE_Init____REV16 <= USED 0
+__asm___5_key_c_KYE_Init____REVSH <= USED 0
+__asm___5_key_c_KYE_Init____RRX <= USED 0
+key_scan <= USED 0
+;FILE led.o
+__asm___5_led_c_LED_Init____REV16 <= USED 0
+__asm___5_led_c_LED_Init____REVSH <= USED 0
+__asm___5_led_c_LED_Init____RRX <= USED 0
+;FILE main.o
+__asm___6_main_c_9cfe9e7b____REV16 <= USED 0
+__asm___6_main_c_9cfe9e7b____REVSH <= USED 0
+__asm___6_main_c_9cfe9e7b____RRX <= USED 0
+;FILE rtc.o
+__asm___5_rtc_c_rtc_dev____REV16 <= USED 0
+__asm___5_rtc_c_rtc_dev____REVSH <= USED 0
+__asm___5_rtc_c_rtc_dev____RRX <= USED 0
+bcdtodec <= USED 0
+rtc_get <= USED 0
+;FILE spi.o
+SPI1_Send_Read <= USED 0
+__asm___5_spi_c_8dfd46c1____REV16 <= USED 0
+__asm___5_spi_c_8dfd46c1____REVSH <= USED 0
+__asm___5_spi_c_8dfd46c1____RRX <= USED 0
+;FILE startup_stm32f40_41xxx.o
+;FILE stm32f4xx_it.o
+__asm___14_stm32f4xx_it_c_bb8ca80c____REV16 <= USED 0
+__asm___14_stm32f4xx_it_c_bb8ca80c____REVSH <= USED 0
+__asm___14_stm32f4xx_it_c_bb8ca80c____RRX <= USED 0
+;FILE system_stm32f4xx.o
+SystemCoreClockUpdate <= USED 0
+__asm___18_system_stm32f4xx_c_5d646a67____REV16 <= USED 0
+__asm___18_system_stm32f4xx_c_5d646a67____REVSH <= USED 0
+__asm___18_system_stm32f4xx_c_5d646a67____RRX <= USED 0
+;FILE systick.o
+SysTick_delay_us <= USED 0
+__asm___9_systick_c_e4db09d1____REV16 <= USED 0
+__asm___9_systick_c_e4db09d1____REVSH <= USED 0
+__asm___9_systick_c_e4db09d1____RRX <= USED 0
+;FILE usart1.o
+USART1_Send_str <= USED 0
+__asm___8_usart1_c_usart1____REV16 <= USED 0
+__asm___8_usart1_c_usart1____REVSH <= USED 0
+__asm___8_usart1_c_usart1____RRX <= USED 0
+;FILE usart2.o
+USART2_Send_str <= USED 0
+__asm___8_usart2_c_usart2____REV16 <= USED 0
+__asm___8_usart2_c_usart2____REVSH <= USED 0
+__asm___8_usart2_c_usart2____RRX <= USED 0
+;FILE w25q64.o
+__asm___8_w25q64_c_141e0fc0____REV16 <= USED 0
+__asm___8_w25q64_c_141e0fc0____REVSH <= USED 0
+__asm___8_w25q64_c_141e0fc0____RRX <= USED 0
+w25q64_block_erase <= USED 0
+w25q64_chip_erase <= USED 0
+w25q64_page_program <= USED 0
+w25q64_read <= USED 0
+w25q64_read_ID <= USED 0
+w25q64_read_status <= USED 0
+w25q64_sector_erase <= USED 0
+w25q64_write <= USED 0
+w25q64_write_enable <= USED 0

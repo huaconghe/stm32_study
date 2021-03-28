@@ -1,0 +1,12 @@
+.\objects\stm32f4xx_ll_utils.o: ..\HALLIB\STM32F4xx_HAL_Driver\Src\stm32f4xx_ll_utils.c
+.\objects\stm32f4xx_ll_utils.o: ..\HALLIB\STM32F4xx_HAL_Driver\Inc\stm32f4xx_ll_utils.h
+.\objects\stm32f4xx_ll_utils.o: ..\CMSIS\stm32f4xx.h
+.\objects\stm32f4xx_ll_utils.o: ..\CMSIS\core_cm4.h
+.\objects\stm32f4xx_ll_utils.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\stm32f4xx_ll_utils.o: ..\CMSIS\core_cmInstr.h
+.\objects\stm32f4xx_ll_utils.o: ..\CMSIS\core_cmFunc.h
+.\objects\stm32f4xx_ll_utils.o: ..\CMSIS\core_cmSimd.h
+.\objects\stm32f4xx_ll_utils.o: ..\CMSIS\system_stm32f4xx.h
+.\objects\stm32f4xx_ll_utils.o: ..\HALLIB\STM32F4xx_HAL_Driver\Inc\stm32f4xx_ll_rcc.h
+.\objects\stm32f4xx_ll_utils.o: ..\HALLIB\STM32F4xx_HAL_Driver\Inc\stm32f4xx_ll_system.h
+.\objects\stm32f4xx_ll_utils.o: ..\HALLIB\STM32F4xx_HAL_Driver\Inc\stm32f4xx_ll_pwr.h
